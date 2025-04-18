@@ -1,0 +1,6 @@
+<event name="VehicleTransitBus">
+    <zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
+    <pos x="11909.426" z="6432.040" a="0" y="49.747" />
+    <pos x="10400.112" z="2237.542" a="0" y="5.930" />
+    <!-- Weitere Positionen nach Bedarf -->
+</event>
