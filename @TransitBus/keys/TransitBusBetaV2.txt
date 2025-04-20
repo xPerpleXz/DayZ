@@ -1,0 +1,10 @@
+Authority:  TransitBusBetaV2
+Creation:   20.04.2025 06:51:40 (by PASSIS_PC\pascal)
+
+== PRIVATE KEY ==
+File: C:\Users\pasca\Desktop\@TransitBus\keys\TransitBusBetaV2.biprivatekey
+MD5: 179c3fa78bcab15457d2cc269fb4f415
+== PUBLIC KEY ==
+File: C:\Users\pasca\Desktop\@TransitBus\keys\TransitBusBetaV2.bikey
+MD5: 82d37f46add4c04f9f309cb05daa909a
+
