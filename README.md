@@ -1,2 +1,2 @@
 # DayZ
-Mods, xml, configs udefull customized files to rework or repack
+Mods, xml, configs usefull customized files to rework or repack
