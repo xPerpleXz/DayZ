@@ -1,0 +1,12 @@
+name = "VehicleDamageReducer";
+picture = "logo.png"; // Optional
+action = "https://github.com/xPerpleXz";
+hideName = 0;
+hidePicture = 0;
+description = "Reduziert den Fahrzeugschaden um 70% für alle Fahrzeuge.";
+logoSmall = "logo.png";
+logo = "logo.png";
+logoOver = "logo.png";
+tooltipOwned = "Vehicle Damage Reducer";
+overview = "Ein einfacher Server-Mod zur Reduktion des Fahrzeugschadens in DayZ.";
+version = "1.0";

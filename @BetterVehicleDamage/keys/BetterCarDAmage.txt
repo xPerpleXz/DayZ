@@ -1,0 +1,10 @@
+Authority:  BetterCarDamage
+Creation:   12.04.2025 01:39:28 (by PASSIS_PC\pascal)
+
+== PRIVATE KEY ==
+File: Z:\Mods\BetterCarDamage\keys\BetterCarDamage.biprivatekey
+MD5: 7585dc0fa62c377ef765c3894510fc48
+== PUBLIC KEY ==
+File: Z:\Mods\BetterCarDamage\keys\BetterCarDamage.bikey
+MD5: 6c9d909ac9aab07dfd0e303bd714c3b4
+

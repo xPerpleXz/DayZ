@@ -1,0 +1,10 @@
+Authority:  loadingscreen
+Creation:   17.04.2025 09:35:18 (by PASSIS_PC\pascal)
+
+== PRIVATE KEY ==
+File: C:\Users\pasca\Desktop\loadingscreen_xperplexz\keys\loadingscreen.biprivatekey
+MD5: 4554b51e3d06c6499792d619bf045caf
+== PUBLIC KEY ==
+File: C:\Users\pasca\Desktop\loadingscreen_xperplexz\keys\loadingscreen.bikey
+MD5: 3774b4c7a2bde254e14bd01199c8f79f
+

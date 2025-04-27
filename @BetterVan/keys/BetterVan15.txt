@@ -1,0 +1,10 @@
+Authority:  BetterVan15
+Creation:   26.04.2025 00:56:06 (by PASSIS_PC\pascal)
+
+== PRIVATE KEY ==
+File: C:\Users\pasca\Desktop\@BetterVan\keys\BetterVan15.biprivatekey
+MD5: 8c3e5b871c21d8bb9ee21c59f3e02aab
+== PUBLIC KEY ==
+File: C:\Users\pasca\Desktop\@BetterVan\keys\BetterVan15.bikey
+MD5: 4c7e28f91970fbf51a9a5dd45b3f44b1
+

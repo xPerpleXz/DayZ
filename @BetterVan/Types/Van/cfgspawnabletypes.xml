@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>   
+	<type name="Van_01">
+		<attachments chance="1.00">
+			<item name="Van_01_Wheel" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Van_01_Wheel" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Van_01_Wheel" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Van_01_Wheel" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="van_01_door_1_1" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="van_01_door_2_1" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="van_01_door_2_2" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="van_01_trunk_1" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="van_01_trunk_2" chance="1.0" />
+		</attachments>
+	</type>
+</spawnabletypes>

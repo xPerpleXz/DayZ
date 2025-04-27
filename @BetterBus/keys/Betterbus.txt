@@ -1,0 +1,10 @@
+Authority:  Betterbus
+Creation:   25.04.2025 18:31:22 (by PASSIS_PC\pascal)
+
+== PRIVATE KEY ==
+File: C:\Users\pasca\Desktop\BetterBus\keys\Betterbus.biprivatekey
+MD5: fa70e7ad3dd97781614ec61b166090fe
+== PUBLIC KEY ==
+File: C:\Users\pasca\Desktop\BetterBus\keys\Betterbus.bikey
+MD5: 41324394c11ebc3ac6c0b5edc1813441
+
